@@ -1,7 +1,7 @@
 
 AWSTemplateFormatVersion: '2010-09-09'
 
-Description: 'AWS CloudFormation Sample Template EC2InstanceWithSecurityGroupSample:
+Description: 'AWS CloudFormation Sample Template EC2 Instance With Security Group Sample:
 
   Create an Amazon EC2 instance running the Amazon Linux AMI. The AMI is chosen based
 
