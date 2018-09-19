@@ -791,7 +791,7 @@ Outputs:
 
   PublicDNS:
 
-    Description: Public DNSName of the newly created EC2 instance
+    Description: Public DNSName of the created EC2 instance
 
     Value:
 
